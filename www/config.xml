@@ -6,7 +6,7 @@
 		version="0.0.1">
 	<name>Ciara'seskillsgame</name>
 <description>Ciara'seskillsgame</description>
-		<gap:platform name="ios" />
+		<gap:platform name="android" />
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
 		<preference name="fullscreen" value="true" />
